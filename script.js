@@ -17,16 +17,40 @@ const frameHoles = document.querySelectorAll(".frame-hole");
 // 프레임 배열
 const frameArr = [
   {
-    imgSrc: "frame/제70회 신성여고 졸업식 프레임v1.png",
-    name: "졸업네컷v1"
+    imgSrc: "frame/4.3frame.png",
+    name: "4.3frame"
   },
   {
-    imgSrc: "frame/제70회 신성여고 졸업식 프레임v2.png",
-    name: "졸업네컷v2"
+    imgSrc: "frame/치이카와 인생네컷1.png",
+    name: "치이카와 인생네컷1"
   },
   {
-    imgSrc: "frame/제70회 신성여고 졸업식 프레임v3.png",
-    name: "졸업네컷v3"
+    imgSrc: "frame/치이카와 인생네컷2.png",
+    name: "치이카와 인생네컷2"
+  },
+  {
+    imgSrc: "frame/치이카와 인생네컷3.png",
+    name: "치이카와 인생네컷3"
+  },
+  {
+    imgSrc: "frame/치이카와 인생네컷4.png",
+    name: "치이카와 인생네컷4"
+  },
+  {
+    imgSrc: "frame/치이카와 인생네컷5.png",
+    name: "치이카와 인생네컷5"
+  },
+  {
+    imgSrc: "frame/치이카와 인생네컷6.png",
+    name: "치이카와 인생네컷6"
+  },
+  {
+    imgSrc: "frame/잔망루피프레임.png",
+    name: "잔망루피"
+  },
+  {
+    imgSrc: "frame/이웃집토토로 프레임.png",
+    name: "이웃집토토로"
   }
 ];
 
